@@ -22,7 +22,7 @@ public class Question02_2 {
 
 		String itemPrice = reader.readLine();
 		int num = Integer.parseInt(itemPrice);
-		System.out.println(num + "が入力されました。");
+		System.out.println(num);
 
 		System.out.println("商品の名前は" + itemName + "です。");
 		System.out.println("商品の値段は" + num + "です。");
