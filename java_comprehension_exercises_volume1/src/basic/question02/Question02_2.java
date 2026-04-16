@@ -20,12 +20,12 @@ public class Question02_2 {
 		String itemName = reader.readLine();
 		System.out.println(itemName);
 
-		String itemPrice = reader.readLine();
-		int num = Integer.parseInt(itemPrice);
-		System.out.println(num);
+		String br = reader.readLine();
+		int itemPrice = Integer.parseInt(br);
+		System.out.println(itemPrice);
 
 		System.out.println("商品の名前は" + itemName + "です。");
-		System.out.println("商品の値段は" + num + "です。");
+		System.out.println("商品の値段は" + itemPrice + "です。");
 	}
 
 }
