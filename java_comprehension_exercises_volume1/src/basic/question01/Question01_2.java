@@ -20,5 +20,4 @@ public class Question01_2 {
 		System.out.println("この筆記用具は" + writingUtensils + "です。");
 
 	}
-
 }

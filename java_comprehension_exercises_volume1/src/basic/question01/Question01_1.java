@@ -22,5 +22,4 @@ public class Question01_1 {
 		System.out.println(item);
 
 	}
-
 }
