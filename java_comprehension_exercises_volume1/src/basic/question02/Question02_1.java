@@ -28,4 +28,5 @@ public class Question02_1 {
 		System.out.println("私の名前は" + name + "です。");
 		System.out.println("好きなスポーツは" + sport + "です。");
 	}
+
 }
